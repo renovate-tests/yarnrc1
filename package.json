@@ -14,6 +14,6 @@
     "url": "https://gitlab.com/rconan/renovate-yarnrc/issues"
   },
   "dependencies": {
-    "yarn": "1.22.1"
+    "yarn": "1.22.4"
   }
 }
