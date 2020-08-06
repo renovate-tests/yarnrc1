@@ -1,0 +1,19 @@
+{
+  "name": "renovate-yarnrc",
+  "version": "1.0.0",
+  "author": "Richard Connon",
+  "license": "AGPL-3.0-or-later",
+  "private": true,
+  "description": "Test repo for renovate yarnrc bug",
+  "homepage": "https://gitlab.com/rconan/renovate-yarnrc",
+  "repository": {
+    "type": "git",
+    "url": "https://git@gitlab.com/rconan/renovate-yarnrc"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/rconan/renovate-yarnrc/issues"
+  },
+  "dependencies": {
+    "yarn": "1.22.1"
+  }
+}
